@@ -1,6 +1,6 @@
 ---
-name: 'Hackathon Submission '
-about: 'Hackathon Project Submission '
+name: 'Hackathon Submission Phase 1'
+about: 'Hackathon Project Submission phase 1'
 title: TEAM NAME - PROJECT NAME - THEME
 ---
 
