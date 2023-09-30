@@ -39,9 +39,9 @@ Q7: What are the steps to participate?
 
 A7: Here's how to get started:
 
-Step 1: Register for the hackathon: https://www.scaler.com/event/scaler-openquest-hackathon/ and Join Scaler Discord: https://bit.ly/ScalerDiscord <br> 
-Step 2: Join our Scaler Discord forum channel for the Scaler OpenQuest: An Open Source Hackathon: https://bit.ly/openquest-hackathon-forum-link. You'll find announcements and registration information, as well as a post to find potential team partners.  <br> 
-Step 3: Once you have joined the link, register a team on this Google form: https://forms.gle/j9CwsfDitUtKahaV7. 
+- Step 1: Register for the hackathon: https://www.scaler.com/event/scaler-openquest-hackathon/ and Join Scaler Discord: https://bit.ly/ScalerDiscord <br> 
+- Step 2: Join our Scaler Discord forum channel for the Scaler OpenQuest: An Open Source Hackathon: https://bit.ly/openquest-hackathon-forum-link. You'll find announcements and registration information, as well as a post to find potential team partners.  <br> 
+- Step 3: Once you have joined the link, register a team on this Google form: https://forms.gle/j9CwsfDitUtKahaV7. 
 
 Prizes
 
