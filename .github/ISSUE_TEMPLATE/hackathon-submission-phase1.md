@@ -1,7 +1,7 @@
 ---
 name: 'Hackathon Submission Phase 1'
 about: 'Hackathon Project Submission phase 1'
-title: TEAM NAME - PROJECT NAME - THEME
+title: TEAM NAME - PROJECT NAME - THEME - Phase 1
 ---
 
 **Before you start, please follow this format for your issue title**:
