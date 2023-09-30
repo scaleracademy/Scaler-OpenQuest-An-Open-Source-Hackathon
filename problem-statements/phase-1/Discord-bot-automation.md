@@ -22,3 +22,8 @@ If the user doesn't make a post daily it can automatically count that user as in
 ## Key benefits
 - Reduced time and effort for mods.
 - Faster delivery of rewards to participants.
+
+
+## Tech stack
+Use any programming language to build the Discord bot. Discord support multiple languages.
+Refer: https://discord.com/developers/docs/intro
