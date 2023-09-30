@@ -9,7 +9,7 @@ Welcome to the rules section of the hackathon. Kindly ensure that you go through
 5. You are supposed to implement all the features as mentioned during the hackathon for each project. 
 6. Teams must submit their projects by 11:59 PM, 15th October 2023 over Github by creating an issue for the submsision for **PHASE 1 OF THE HACKATHON**. Any projects being submitted after the deadline will not be accepted for phase 1.
 7. Teams must submit their projects by 11:59 PM, 31st October 2023 over Github by creating an issue for the submsision  **PHASE 2 OF THE HACKATHON**. Any projects being submitted after the deadline will not be accepted for phase 2.
-8. Projects that violate the [Code of Conduct](). will be disqualified and can no longer be a part of the OpenQuest hackathon. 
+8. Projects that violate the [Code of Conduct](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/blob/main/codeofconduct.md). will be disqualified and can no longer be a part of the OpenQuest hackathon. 
 9. Being an Open Source Hackathon, each and every project developed at OpenQuest should be open source having appropriate License Documents to avoid any unauthorised use of the same. 
 
 ## Judging Criteria 
