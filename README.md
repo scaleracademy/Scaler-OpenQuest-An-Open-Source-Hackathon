@@ -24,6 +24,8 @@ Choose from the below problem statements
 - WorkLikeElon— Productivity Chrome Extension/ Mobile Application / Desktop Application For Software Engineers
 - Discord Bot Automation
 
+You can find the problem statements here for phase 1: https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/tree/main/problem-statements/phase-1
+
 ## Project Phase 1 Submissions
 All the Project Submissions for phase 1 have to be done by making an issue in this repository latest by 15th October 11:59 PM IST. The guidelines to follow for the same have been mentioned below:
 1. **Only one team member from a team** has to open up an Issue for project submission for phase 1 using their GitHub Account [here](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/issues/new)
