@@ -27,3 +27,8 @@ If the user doesn't make a post daily it can automatically count that user as in
 ## Tech stack
 Use any programming language to build the Discord bot. Discord support multiple languages.
 Refer: https://discord.com/developers/docs/intro
+
+
+## Resources
+1. https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
+2.  https://discord.com/developers/docs/intro
