@@ -66,3 +66,10 @@ Task Completion: Once the Pomodoro session is complete, Jane marks the task as f
 Repeating the Process: Jane repeats this process for her other tasks, adjusting the Pomodoro intervals as needed based on her workflow and preferences.
 
 By integrating the Pomodoro technique directly into her daily task list in the productivity tool, Jane can efficiently manage her workday, maintain focus, and ensure she takes regular breaks to recharge. This feature empowers her to work more productively and maintain a healthy work-life balance.
+
+
+## Resources
+
+1. https://developer.chrome.com/docs/extensions/mv3/getstarted/
+2. https://docs.flutter.dev/get-started/codelab
+3. https://www.freecodecamp.org/news/building-chrome-extension/
