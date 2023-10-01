@@ -16,7 +16,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 3. **Short Project Description:** _One line crisp description of your project_
 
-4. **Team Name:** Please mention the same team name as mentioned in Github Handle 
+4. **Team Name:** Please mention the same team name as mentioned in Discord
 
 5. **Team Members:** Mention their Names & tag their Discord handles
 
