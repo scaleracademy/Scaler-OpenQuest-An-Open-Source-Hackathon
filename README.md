@@ -12,7 +12,7 @@
 - We have a dedicated post that is pinned to the top of the channel called OpenQuest Announcements. This channel will serve as the primary source of information for the challenge - all announcements will be posted here.
 - We have another post by the name of ``find your partner``, you can use this to find teammates for the hackathon.
 - Register for the hackathon if you haven't already: https://www.scaler.com/event/scaler-openquest-hackathon/
-- Form a team and register your team if you haven't already: https://forms.gle/j9CwsfDitUtKahaV7 (note: only one of your team members has to fill this form)
+- Form a team and register your team if you haven't already: https://forms.gle/j9CwsfDitUtKahaV7 (note: only one of your team members has to fill this form also remember that you have time till 7th October for 1st phase to register teams for prize eligibility)
 - As you start to participate from 1st October onwards, Create a new forum post in the forum channel ##openquest-hackathon with the title as - `<teamname>--<DiscordUsernam1e>--<<discordusername2>` (if there are two members) or `<teamname>--<DiscordUsernam1e>` if there is one team member.
 - For example, if your team name is `Invincibles` and your Discord Username is `john#1234` and team mate discord username is `joe#1234` , your post title should be `invincibles-john1234-joe1234`. You have to drop a message:  `the team will work on which specific problem statement`.
 - Use this channel to share daily updates on the project you are building.
