@@ -26,7 +26,7 @@
 - Make sure that the following are taken into consideration before submitting ( failure to do so may result in disqualification ) : 
   1. Make sure you have your code link ready 
   3. Demo Link ( if applicable ) - Hosted / Live link of the prototype
-- Start a [new submisison issue](https://github.com/scaleracademy/hackx-submissions/issues/new/choose).
+- Start a [new submisison issue](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/issues/new/choose).
 - Complete the template. 
 - Submit the issue (one per team). 
 - Success 🎉
