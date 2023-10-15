@@ -41,7 +41,7 @@ You can find the problem statements here for phase 1: https://github.com/scalera
 
 ## Project Phase 1 Submissions
 All the Project Submissions for phase 1 have to be done by making an issue in this repository latest by 15th October 11:59 PM IST. The guidelines to follow for the same have been mentioned below:
-1. **Only one team member from a team** has to open up an Issue for project submission for phase 1 using their GitHub Account [here](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/issues/new)
+1. **Only one team member from a team** has to open up an Issue for project submission for phase 1 using their GitHub Account: - Start a [new submisison issue](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/issues/new/choose).
 2. The **Issue Template** should be strictly followed. A submission not following the same would be termed as an INVALID SUBMISSION.
 3. Specify the appropriate project field from the checklist, please delete anything that does not matter to you.
 4. Only a **single issue** has to be made for each individual project, Multiple submissions will be termed as INVALID SUBMISSION.
