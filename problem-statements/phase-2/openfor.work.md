@@ -35,53 +35,57 @@ Dev.To (for Developers)
 
 
 # User Stories
-Onboarding (profile builders / job seekers)
+## Onboarding (profile builders / job seekers)
 
-User Stories
-Onboarding (profile builders / job seekers)
-Landing page has a "Are you openfor.work ? " CTA
+1. Landing page has a "Are you openfor.work ? " CTA
 
-Clicking on that takes to simple tap-able process with as little manual information needed as possible.
+2. Clicking on that takes to simple tap-able process with as little manual information needed as possible.
 
-Step 1 - import from LinkedIn - or else enter name, email, contact no, profile photo
+3. Step 1 - import from LinkedIn - or else enter name, email, contact no, profile photo
 
-Step 2 - tap and select from icons - "I am good at..." -
+4. Step 2 - tap and select from icons - "I am good at..." -
 
-Development
-Design
-Content
-Marketing
-Depending on what was selected previously we ask for following connections (through API, or initially just submit links)
+i. Development
+ii. Design
+iii. Content
+iv. Marketing
 
-Development
-Github
-StackOverflow
-LeetCode
-Design
-Behance
-Dribbble
-Figma
-Content
-Medium
-Personal Blog
-Marketing
-Facebook
-Instagram
-Youtube
-** People can add other type of profiles from their choses profession (developer can add a Medium blog) later through account settings. In onboarding flow the above onces are what are suggested.
+5. Depending on what was selected previously we ask for following connections (through API, or initially just submit links)
 
-Add a < 3min video that covers
+i. Development
+- Github
+- StackOverflow
+- LeetCode
 
-Who are you ?
-Professional achievements till now ?
-What do you like to work on
-Once profile is built, Projects can be added. Each project will have these fields
+ii. Design
+- Behance
+- Dribbble
+- Figma
 
-Title* (100 char)
-Description* (2000 char)
-Cover Images* (min 1, max 4)
-Links
-Demo Video
+iii. Content
+- Medium
+- Personal Blog
+
+iv. Marketing
+- Facebook
+- Instagram
+- Youtube
+
+**People can add other type of profiles from their choses profession (developer can add a Medium blog) later through account settings. In onboarding flow the above onces are what are suggested**
+
+6. Add a < 3min video that covers
+
+i. Who are you ?
+ii. Professional achievements till now ?
+iii. What do you like to work on
+
+7. Once profile is built, Projects can be added. Each project will have these fields
+
+i. Title* (100 char)
+ii. Description* (2000 char)
+iii. Cover Images* (min 1, max 4)
+iv. Links
+v.Demo Video
 
 
 
