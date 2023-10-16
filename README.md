@@ -39,6 +39,13 @@ Choose from the below problem statements
 
 You can find the problem statements here for phase 1: https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/tree/main/problem-statements/phase-1
 
+## Project Phase 2 Problem Statements: 
+Choose from the below problem statements: 
+- openfor.work - a professional profile building website
+- Developer tooling - open ended
+
+You can find the problem statements for phase 2: https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/tree/main/problem-statements/phase-2
+
 ## Project Phase 1 Submissions
 All the Project Submissions for phase 1 have to be done by making an issue in this repository latest by 15th October 11:59 PM IST. The guidelines to follow for the same have been mentioned below:
 1. **Only one team member from a team** has to open up an Issue for project submission for phase 1 using their GitHub Account: - Start a [new submisison issue](https://github.com/scaleracademy/Scaler-OpenQuest-An-Open-Source-Hackathon/issues/new/choose).
